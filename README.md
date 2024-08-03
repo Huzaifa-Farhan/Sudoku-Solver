@@ -23,14 +23,6 @@ Example input for a row:
 
    ```bash
    530070000
-   600195000
-   098000060
-   800060003
-   400803001
-   700020006
-   060000280
-   000419005
-   000080079
 
 3. Wait for the Solution:  
 The script will process the input and solve the Sudoku puzzle. Once the solution is found, it will be displayed using pyautogui.  
