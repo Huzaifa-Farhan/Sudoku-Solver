@@ -27,7 +27,7 @@ Example input for a row:
 3. Wait for the Solution:  
 The script will process the input and solve the Sudoku puzzle. Once the solution is found, it will be displayed using pyautogui.  
 
-## Important Notes
+## Important Note
 Ensure the code runs perfectly to see the correct results. The use of pyautogui simulates keyboard actions, so ensure that your cursor is on a suitable text editor or input field that can accept the simulated key presses.
 
 ## Example
